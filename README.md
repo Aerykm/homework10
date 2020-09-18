@@ -1,1 +1,1 @@
-# homework10
+When creating the classes it is important to create a constructor to have the name email and id. It took me a while to pass all the tests because the structuring of my classes werent very good, but eventually I got it and was able to pass the tests. Using arrays I typed out the prompts I wanted the user to see so they can fill it out effectively and generate an html with this information displayed.
